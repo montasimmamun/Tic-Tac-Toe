@@ -1,4 +1,4 @@
-# Sudoku Solver By Montasim
+# Tic Tac Toe By Montasim
 
 This python code helps you to play Tic tac toe. Hope You Will Like The Game and you can also use the code to make your own version of game. If you use this code give credit to AUTHOR
 
